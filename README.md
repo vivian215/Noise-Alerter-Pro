@@ -21,6 +21,7 @@ Noise Alerter Pro processes audio input in real-time and includes a decibel mete
 *Audio Signal Processing & Feature Extraction*
 
 Since machine learning has been extensively used in image classification, I implemented sound classification by using visual representations of sound as input for the neural network model. Noise Alerter Pro extracts Mel-frequency cepstral coefficients (MFCCs) as audio features for input. I also included togglable graphical displays of the real-time Fast Fourier Transform (FFT) graph, spectrogram, and MFCCs.
+
 ![image](https://github.com/vivian215/Noise-Alerter-Pro/assets/56425860/3e2f71cc-2c01-4a9a-a9fe-ac7959e652cd)
 
 *Machine Learning Classification*
