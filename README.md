@@ -26,6 +26,7 @@ Since machine learning has been extensively used in image classification, I impl
 *Machine Learning Classification*
 
 Noise Alerter Pro displays the results of the sound classification in real-time. The right section with the gray background shows the results of each individual prediction (1 per second, 5 per trigger). The taller and greener the bar, the more confident it is. The left section with the white background and category names shows the overall prediction for the 5-second duration by combining the individual predictions based on their confidence score and weighting with volume.
+
 ![image](https://github.com/vivian215/Noise-Alerter-Pro/assets/56425860/fd032aea-7414-4860-82b1-19101363ab0c)
 
 <br></br>
